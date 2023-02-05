@@ -1,0 +1,12 @@
+C:\Users\Kobi\Desktop\A23 Ex05 KobiKuzi 316063908 TomerCohen 206895625\A23 Ex05 Kobi 316063908 Tomer 206895625\Ex05.Forms\obj\Debug\Ex05.Forms.csproj.AssemblyReference.cache
+C:\Users\Kobi\Desktop\A23 Ex05 KobiKuzi 316063908 TomerCohen 206895625\A23 Ex05 Kobi 316063908 Tomer 206895625\Ex05.Forms\obj\Debug\Ex05.Forms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kobi\Desktop\A23 Ex05 KobiKuzi 316063908 TomerCohen 206895625\A23 Ex05 Kobi 316063908 Tomer 206895625\Ex05.Forms\obj\Debug\Ex05.Forms.csproj.CoreCompileInputs.cache
+C:\Users\Kobi\Desktop\A23 Ex05 KobiKuzi 316063908 TomerCohen 206895625\A23 Ex05 Kobi 316063908 Tomer 206895625\Ex05.Forms\bin\Debug\Ex05.Forms.exe.config
+C:\Users\Kobi\Desktop\A23 Ex05 KobiKuzi 316063908 TomerCohen 206895625\A23 Ex05 Kobi 316063908 Tomer 206895625\Ex05.Forms\bin\Debug\Ex05.Forms.exe
+C:\Users\Kobi\Desktop\A23 Ex05 KobiKuzi 316063908 TomerCohen 206895625\A23 Ex05 Kobi 316063908 Tomer 206895625\Ex05.Forms\bin\Debug\Ex05.Forms.pdb
+C:\Users\Kobi\Desktop\A23 Ex05 KobiKuzi 316063908 TomerCohen 206895625\A23 Ex05 Kobi 316063908 Tomer 206895625\Ex05.Forms\obj\Debug\Ex05.Forms.exe
+C:\Users\Kobi\Desktop\A23 Ex05 KobiKuzi 316063908 TomerCohen 206895625\A23 Ex05 Kobi 316063908 Tomer 206895625\Ex05.Forms\obj\Debug\Ex05.Forms.pdb
+C:\Users\Kobi\Desktop\A23 Ex05 KobiKuzi 316063908 TomerCohen 206895625\A23 Ex05 Kobi 316063908 Tomer 206895625\Ex05.Forms\bin\Debug\Ex05.GameLogic.dll
+C:\Users\Kobi\Desktop\A23 Ex05 KobiKuzi 316063908 TomerCohen 206895625\A23 Ex05 Kobi 316063908 Tomer 206895625\Ex05.Forms\bin\Debug\Ex05.GameLogic.pdb
+C:\Users\Kobi\Desktop\A23 Ex05 KobiKuzi 316063908 TomerCohen 206895625\A23 Ex05 Kobi 316063908 Tomer 206895625\Ex05.Forms\bin\Debug\Ex05.GameLogic.dll.config
+C:\Users\Kobi\Desktop\A23 Ex05 KobiKuzi 316063908 TomerCohen 206895625\A23 Ex05 Kobi 316063908 Tomer 206895625\Ex05.Forms\obj\Debug\Ex05.Forms.csproj.CopyComplete

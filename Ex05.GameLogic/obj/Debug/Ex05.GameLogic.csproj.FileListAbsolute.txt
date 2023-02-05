@@ -1,0 +1,7 @@
+C:\Users\Kobi\Desktop\A23 Ex05 KobiKuzi 316063908 TomerCohen 206895625\A23 Ex05 Kobi 316063908 Tomer 206895625\Ex05.GameLogic\obj\Debug\Ex05.GameLogic.csproj.AssemblyReference.cache
+C:\Users\Kobi\Desktop\A23 Ex05 KobiKuzi 316063908 TomerCohen 206895625\A23 Ex05 Kobi 316063908 Tomer 206895625\Ex05.GameLogic\obj\Debug\Ex05.GameLogic.csproj.CoreCompileInputs.cache
+C:\Users\Kobi\Desktop\A23 Ex05 KobiKuzi 316063908 TomerCohen 206895625\A23 Ex05 Kobi 316063908 Tomer 206895625\Ex05.GameLogic\bin\Debug\Ex05.GameLogic.dll.config
+C:\Users\Kobi\Desktop\A23 Ex05 KobiKuzi 316063908 TomerCohen 206895625\A23 Ex05 Kobi 316063908 Tomer 206895625\Ex05.GameLogic\bin\Debug\Ex05.GameLogic.dll
+C:\Users\Kobi\Desktop\A23 Ex05 KobiKuzi 316063908 TomerCohen 206895625\A23 Ex05 Kobi 316063908 Tomer 206895625\Ex05.GameLogic\bin\Debug\Ex05.GameLogic.pdb
+C:\Users\Kobi\Desktop\A23 Ex05 KobiKuzi 316063908 TomerCohen 206895625\A23 Ex05 Kobi 316063908 Tomer 206895625\Ex05.GameLogic\obj\Debug\Ex05.GameLogic.dll
+C:\Users\Kobi\Desktop\A23 Ex05 KobiKuzi 316063908 TomerCohen 206895625\A23 Ex05 Kobi 316063908 Tomer 206895625\Ex05.GameLogic\obj\Debug\Ex05.GameLogic.pdb
